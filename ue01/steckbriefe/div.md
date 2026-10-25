@@ -23,5 +23,5 @@ Meine bisherigen Erfahrungen haben mir geholfen, sowohl meine technischen Fähig
 …
 
 ## Das erwarte ich von der Veranstaltung
-
+Von der Lehrveranstaltung Softwaretechnik erwarte ich, dass ich meine bisherigen praktischen Erfahrungen in der Softwareentwicklung erweitern und vertiefen kann. Besonders möchte ich lernen, wie komplexe Softwareprojekte strukturiert geplant, entwickelt und getestet werden. Außerdem möchte ich meine Kenntnisse in der Softwarearchitektur, der Qualitätssicherung und der Teamarbeit verbessern. Mein Ziel ist es, zukünftig nicht nur funktionierende Anwendungen zu entwickeln, sondern auch sauberen, wartbaren und professionell strukturierten Code zu schreiben.
 …
