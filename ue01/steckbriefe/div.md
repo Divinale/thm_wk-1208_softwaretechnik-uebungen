@@ -1,6 +1,8 @@
 # Steckbrief <div>
 
-## Wirschaftinformatik 5. Semester
+ ## Studiengang und Semester
+ 
+ Wirschaftinformatik 5. Semester
 
 …
 
