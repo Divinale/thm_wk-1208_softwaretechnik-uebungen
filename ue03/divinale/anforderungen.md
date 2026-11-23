@@ -1,19 +1,19 @@
 # Anforderungen — Terminplaner für die THM
 
-<!-- Aufgabe 3 des Übungsblatts, ohne Hilfsmittel. Je Zeile eine
-     Anforderung in einem Satz, dazu der Stakeholder, von dem sie stammt,
-     und die Art: FA, QA oder RB. Mindestens acht Anforderungen, davon
-     mindestens zwei je Art; die Nummern laufen A01, A02 … Löschen Sie die
-     Kommentare, sobald Sie fertig sind. -->
+
+    
 
 | Nr. | Anforderung | Stakeholder | Art |
 |---|---|---|---|
-| A01 | … | … | … |
+| A01 | Studierebde können Termine online buchen| Studierene| FA |
+| A02 | Dozente können den Status einer Abstimmung sehen | Dozente | FA |
+| A03 | Eine Buchung soll innerhalb wenigen Sekunden erfolgen | Studierende | QA |
+| A04 | Wer eine Abstimmung erstellt soll spontan benachrichtigt werden , wenn jemand daran teilnimmt. | Lehrende | QA |
+| A05 | Das System muss auf der vorhandenen Thm Infrastrukstur laufen | Rechenzentrum | 
+| A06 | Das Budjet für den Tetrminplanner Projekt soll nicht 5000 Euros überstreiten |
 
 ## Eine Anforderung, die niemand ausgesprochen hat
 
-<!-- Nummer der Anforderung aus der Tabelle, welche im Gespräch niemand
-     ausgesprochen hat, obwohl sie gilt, und in ein bis zwei Sätzen, warum
-     sie niemand genannt hat. -->
+Bei einem Termin muss die Endzeit nach der Startzeit liegen.Dese Anforderung wurde vermutlich nicht genannt, weil alle selbstverständlich davon ausgehen, dass ein Termin endet, nachdem er begonnen hat.
 
 …
